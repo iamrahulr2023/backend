@@ -125,10 +125,10 @@ const item = [
   { id: 2, name: "rk" }
 ];
 
-app.get("/", (req, res) => {
-  const students = [{ id: 3, name: "rt" }];
-  res.json(students);
-});
+// app.get("/", (req, res) => {
+//   const students = [{ id: 3, name: "rt" }];
+//   res.json(students);
+// });
 
 
 
